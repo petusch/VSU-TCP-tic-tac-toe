@@ -1,0 +1,7 @@
+﻿  Source.cpp
+g:\7)\project3\project3\source.cpp(41): warning C4101: hoststr: неиспользованная локальная переменная
+g:\7)\project3\project3\source.cpp(41): warning C4101: startBuffer: неиспользованная локальная переменная
+g:\7)\project3\project3\source.cpp(40): warning C4101: bytesRecv: неиспользованная локальная переменная
+g:\7)\project3\project3\source.cpp(40): warning C4101: bytesSent: неиспользованная локальная переменная
+g:\7)\project3\project3\source.cpp(41): warning C4101: servstr: неиспользованная локальная переменная
+  Project3.vcxproj -> G:\7)\Project3\Debug\Project3.exe
